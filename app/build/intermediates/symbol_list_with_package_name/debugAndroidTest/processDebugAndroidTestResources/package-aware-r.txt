@@ -1,0 +1,3 @@
+com.aquatrace.firstapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
